@@ -11,5 +11,5 @@ Has features such as:
 
 ![Preview](https://assistant.moe/files/ModAssistant.png)
 
-## VR游戏‘节奏光剑’（beat saber）mod助手
-配合歌曲下载网站使用[下载地址]https://beatsaver.com/
+### VR游戏‘节奏光剑’（beat saber）mod助手
+配合歌曲下载网站使用![下载地址]https://beatsaver.com/
